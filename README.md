@@ -7,7 +7,6 @@ Shoply allows users to browse products, search and filter products, view product
 
 Live Demo
 
-https://shoply-mocha-eight.vercel.app
 
 
 
